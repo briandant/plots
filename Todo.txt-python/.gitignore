@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+*.tar*
+*.zip
+*.egg*
